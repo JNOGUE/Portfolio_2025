@@ -1,8 +1,5 @@
 # Portfolio-2025
 
-Here’s a professional and compelling GitHub portfolio synopsis tailored for someone pursuing a long-term path in cybersecurity:
-
----
 
 ### 🔐 Cybersecurity Enthusiast | Future Security Analyst | Lifelong Learner
 
